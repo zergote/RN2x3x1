@@ -1,0 +1,14 @@
+{
+  "name": "red_neuronal_retropropagacion",
+  "version": "1",
+  "description": "Proyecto de juguete",
+  "main": "app.js",
+  "repository": {},
+  "author": "Christian Yanez",
+  "license": "MIT",
+  "scripts": { "start": "webpack-dev-server" },
+  "devDependencies": {
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  }
+}
